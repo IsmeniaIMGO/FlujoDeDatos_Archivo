@@ -8,7 +8,7 @@ public class CrearCarpeta {
 	//crear el lugar donde vamos a guardar la carpeta y de ultimo el nombre EJ: "C:/ruta/nombreCarpeta"
 	static File carpeta1 = new File ("C:/Users/marce/OneDrive/Documents/MARCELA/Ing. Sistemas/5to Semestre/programacion 3/Archivo/info/Mujeres");
 	static File carpeta2 = new File ("C:/Users/marce/OneDrive/Documents/MARCELA/Ing. Sistemas/5to Semestre/programacion 3/Archivo/info/Hombres");
-	static File carpeta3 = new File ("C:/Users/marce/OneDrive/Documents/MARCELA/Ing. Sistemas/5to Semestre/programacion 3/Archivo/info/Animaless");
+	static File carpeta3 = new File ("C:/Users/marce/OneDrive/Documents/MARCELA/Ing. Sistemas/5to Semestre/programacion 3/Archivo/info/Animales");
 
 	/**
 	 * crear carpetas y mostrar su contenido
